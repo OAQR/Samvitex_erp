@@ -58,7 +58,7 @@ A continuación se presentan los módulos principales que componen la solución 
 <table>
   <tr>
     <th width="50%">5. Inventario Multi-Almacén</th>
-    <th width="50%">6. Trazabilidad</th>
+    <th width="50%">6. Reportes</th>
   </tr>
   <tr>
     <td>
@@ -67,7 +67,7 @@ A continuación se presentan los módulos principales que componen la solución 
       <img src="https://github.com/user-attachments/assets/8d9d3f55-5011-4b43-b905-7bfbc1bdb4ed" width="100%" alt="Inventario Global" />
     </td>
     <td>
-      Control detallado de existencias por ubicación física.
+      Control detallado de ganancias, entradas y salidas
       <br><br>
       <img src="https://github.com/user-attachments/assets/b57f7d7e-6943-4393-bf5a-704753cb00c2" width="100%" alt="Trazabilidad" />
     </td>
