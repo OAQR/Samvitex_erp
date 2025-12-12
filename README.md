@@ -31,7 +31,7 @@ A continuación se presentan los módulos principales que componen la solución 
     <td>
       KPIs en tiempo real, valoración de inventario y gráficos de tendencias.
       <br><br>
-      <img src="https://github.com/user-attachments/assets/d21a430a-b9f8-44c9-8538-f5db82d38b92" width="100%" alt="Dashboard General" />
+      <img src="https://github.com/user-attachments/assets/3fbfe8e8-9f26-4638-b9b7-969d459eed07" width="100%" alt="Dashboard General" />
     </td>
   </tr>
 </table>
