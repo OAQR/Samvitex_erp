@@ -15,7 +15,7 @@ A diferencia de los sistemas de punto de venta (POS) genéricos, este software i
 
 ## Recorrido del Sistema
 
-A continuación se presentan los módulos principales que componen la solución tecnológica:
+A continuación se presentan algunos de los módulos principales que componen la solución tecnológica:
 
 <table>
   <tr>
